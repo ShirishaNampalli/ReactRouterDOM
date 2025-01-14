@@ -13,3 +13,6 @@ hooks
 - useRef ( to avoid unnecessary renders)
 - useContext ( to access the stored data in context)
 - useParams ( to access params from URL)
+
+Tech stack:
+React, JavaScript 
